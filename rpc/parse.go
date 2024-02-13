@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/etherdev12/go-rpc/crypto"
+	"github.com/NickTaporuk/go-rpc/crypto"
 	"github.com/winlabs/gowin32"
 	"golang.org/x/sys/windows/registry"
 )
