@@ -1,4 +1,4 @@
-module github.com/etherdev12/go-rpc
+module github.com/NickTaporuk/go-rpc
 
 go 1.21.3
 
